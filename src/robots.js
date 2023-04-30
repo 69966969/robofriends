@@ -62,6 +62,6 @@ export const robots = [
      {
         id: 13,
         name: 'Okhm777',
-        username: '#8282',
+        username: '8282',
     }
 ]
