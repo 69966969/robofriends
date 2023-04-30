@@ -16,7 +16,7 @@ export const robots = [
     },
     {
         id: 4,
-        name: 'Andrejs Izģērbējs',
+        name: 'Andrejs Ortikovs',
         username: 'Ryyyyyzhais',
     },
     {
